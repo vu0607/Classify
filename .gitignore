@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/images,pycharm,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=images,pycharm,visualstudio
-dataset/**
+dataset/train/*
 !dataset/.gitkeep
 !dataset/train/.gitkeep
 
