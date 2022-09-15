@@ -1,7 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/images,pycharm,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=images,pycharm,visualstudio
-!dataset/*.gitkeep
-dataset/**
+!dataset/.gitkeep
+dataset/*
+!dataset/test/.gitkeep
 .idea/
 ### Images ###
 # JPEG
